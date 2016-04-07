@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Temp
+*~
+*/*~
+
 # C extensions
 *.so
 
@@ -62,6 +66,7 @@ target/
 .ipynb_checkpoints
 
 # temp files
- *~
+*~
+ */~
  .DS_Store
  fabfile.py
